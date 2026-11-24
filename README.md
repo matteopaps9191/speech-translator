@@ -7,6 +7,8 @@ It runs as a web app in your browser or as a terminal script.
   <img src="docs/screenshot.png" alt="Speech Translator web app translating English speech into Japanese" width="600">
 </p>
 
+<p align="center"><b>▶ <a href="docs/demo.mp4">Watch the demo video</a></b> (24 seconds, with sound)</p>
+
 **13 languages:** English, Spanish, French, Portuguese, German, Italian, Chinese,
 Japanese, Korean, Russian, Arabic, Hindi, Dutch.
 
