@@ -3,6 +3,10 @@
 Speak into your microphone in one language and hear it spoken back in another.
 It runs as a web app in your browser or as a terminal script.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Speech Translator web app translating English speech into Japanese" width="600">
+</p>
+
 **13 languages:** English, Spanish, French, Portuguese, German, Italian, Chinese,
 Japanese, Korean, Russian, Arabic, Hindi, Dutch.
 
